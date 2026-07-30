@@ -86,105 +86,49 @@ I enjoy solving real-world problems through clean architecture, scalable backend
 | **PrepAI** | https://prep-ai-pied-eta.vercel.app/ | https://github.com/abhishekx17/prepAi | AI-powered interview preparation platform using Gemini AI for resume analysis and interview generation. |
 
 ---
-
-# Experience
-
-| Position | Organization | Duration |
-|----------|--------------|----------|
-| Full Stack Developer Trainee | Industrial Training | 6 Months |
-
 ---
 
-# Education
-
-**Bachelor of Technology (Computer Science & Engineering)**
-
-IK Gujral Punjab Technical University
-
-2022 – 2026
-
----
-
-# Currently Learning
-
-- Advanced Backend Architecture
-- System Design
-- Authentication & Security
-- AI Integration with MERN
-- Scalable REST APIs
-
----
-
-# GitHub Analytics
+## Connect
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekx17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekx17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhishekx17&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekx17&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekx17&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=abhishekx17&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# Let's Connect
-
-<p align="center">
-
-<a href="mailto:abhishek.0x17@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abhishek-kumar-805194380/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://portfolio-zeta-dusky-77gm08xc7d.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="mailto:abhishek.0x17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhishek-kumar-805194380/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-zeta-dusky-77gm08xc7d.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=150&lines=%3E+npm+run+dev;%3E+Building+MERN+Applications;%3E+Integrating+Generative+AI;%3E+Turning+Ideas+Into+Products;%3E+while(alive)+%7B+learn();+build();+repeat();+%7D"/>
+</p>
 
-<i>"Code. Learn. Build. Repeat."</i>
+<p align="center">
 
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   SYSTEM STATUS : ONLINE                             ║
+║                                                      ║
+║   MERN STACK          ████████████ 100%              ║
+║   GENERATIVE AI       ███████████░  90%              ║
+║   PROBLEM SOLVING     ██████████░░  85%              ║
+║   CURIOSITY           ████████████ 100%              ║
+║                                                      ║
+║        READY TO BUILD SOMETHING AWESOME              ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,35:7B2FF7,70:1A1B27,100:0D1117&section=footer"/>
 </p>
