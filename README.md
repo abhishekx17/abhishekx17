@@ -1,27 +1,190 @@
-# 💫 About Me:
-I'm currently working on<br>Sharpening my skills by building and shipping resume worthy MERN projects with clean, deployed live links.<br>I'm looking to collaborate on<br>MERN stack projects, especially full stack apps involving React, Express, MongoDB, and authentication systems.<br>I'm looking for help with<br>Best practices for scaling backend architecture and writing production ready, secure Node/Express APIs.<br>I'm currently learning<br>Full stack web development through Harkirat Singh's 0-100xdevs course, deepening my skills in Express, MongoDB/Mongoose, JWT auth, and backend system design.<br>Ask me about<br>MERN stack development, building auth systems (JWT/Clerk), or Electron based desktop apps.<br>Fun fact<br>I built a production desktop inventory management app (Electron, React, TypeScript) that's actually in use at a real company, complete with weighing scale integration and Tally ERP sync.
+<!-- ======================= BANNER ======================= -->
 
+<p align="center">
+  <img src="assets/github-banner.png" alt="Abhishek Kumar Banner" width="100%" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi_.notfound) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhishek-kumar-805194380) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek.0x17@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Abhishek+Kumar;Final+Year+B.Tech+CSE+Student;MERN+Stack+Developer;Building+AI+Powered+Web+Applications" />
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhishekx17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abhishekx17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhishekx17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">
+Full Stack Developer • MERN Stack • AI Enthusiast
+</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhishekx17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhishekx17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<a href="https://portfolio-zeta-dusky-77gm08xc7d.vercel.app/">Portfolio</a>
+•
+<a href="https://www.linkedin.com/in/abhishek-kumar-805194380/">LinkedIn</a>
+•
+<a href="mailto:abhishek.0x17@gmail.com">Email</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhishekx17&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+I'm **Abhishek Kumar**, a Final Year B.Tech Computer Science student passionate about building modern web applications and AI-powered products.
+
+I enjoy solving real-world problems through clean architecture, scalable backend systems, and intuitive user interfaces. My focus is on building production-ready MERN applications while continuously exploring Generative AI and modern developer tools.
+
+- Final Year B.Tech CSE Student (2022–2026)
+- Open to Full Stack Software Developer opportunities
+- Passionate about MERN Stack & AI
+- Love building products from idea to deployment
+
+---
+
+# Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### AI
+
+<p>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay"/>
+
+</p>
+
+---
+
+# Featured Projects
+
+| Project | Live Demo | Repository | Description |
+|---------|-----------|------------|-------------|
+| **Velora** | https://velora-rho-one.vercel.app/ | https://github.com/abhishekx17/E-commerce | Full Stack E-commerce platform with authentication, cart, checkout, admin dashboard and Razorpay integration. |
+| **QuickEMS** | https://quick-ems-iota.vercel.app/login | https://github.com/abhishekx17/QuickEMS | Employee Management System with authentication, dashboards and employee management. |
+| **PrepAI** | https://prep-ai-pied-eta.vercel.app/ | https://github.com/abhishekx17/prepAi | AI-powered interview preparation platform using Gemini AI for resume analysis and interview generation. |
+
+---
+
+# Experience
+
+| Position | Organization | Duration |
+|----------|--------------|----------|
+| Full Stack Developer Trainee | Industrial Training | 6 Months |
+
+---
+
+# Education
+
+**Bachelor of Technology (Computer Science & Engineering)**
+
+IK Gujral Punjab Technical University
+
+2022 – 2026
+
+---
+
+# Currently Learning
+
+- Advanced Backend Architecture
+- System Design
+- Authentication & Security
+- AI Integration with MERN
+- Scalable REST APIs
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekx17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekx17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhishekx17&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekx17&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekx17&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abhishekx17&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="mailto:abhishek.0x17@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-805194380/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://portfolio-zeta-dusky-77gm08xc7d.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Code. Learn. Build. Repeat."</i>
+
+</p>
