@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="assets/github-banner.png" alt="Abhishek Kumar Banner" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+AI+Powered+Products;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
