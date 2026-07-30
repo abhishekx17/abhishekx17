@@ -1,16 +1,18 @@
 <!-- ======================= BANNER ======================= -->
+<table>
+<tr>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+AI+Powered+Products;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New" />
-</p>
+<td width="42%" align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Abhishek+Kumar;Final+Year+B.Tech+CSE+Student;MERN+Stack+Developer;Building+AI+Powered+Web+Applications" />
-</p>
+<img src="./assets/coding.gif" width="100%" alt="Coding Animation"/>
 
-<h3 align="center">
-Full Stack Developer • MERN Stack • AI Enthusiast
-</h3>
+</td>
+
+<td width="58%" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F5FF&vCenter=true&width=500&lines=Hi+I'm+Abhishek+Kumar;Final+Year+B.Tech+CSE+Student;MERN+Stack+Developer;Building+AI+Powered+Web+Applications" />
+
+
 
 <p align="center">
 <a href="https://portfolio-zeta-dusky-77gm08xc7d.vercel.app/">Portfolio</a>
